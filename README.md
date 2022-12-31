@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Dishma Bhashitha!
 - 👀 I’m interested in Web Developing, Software Engineering!
 - 🌱 I’m currently learning more Computer languages
-- 💞️ I’m looking to collaborate on IT projects
 - 📫 How to reach me - bdishma@gmail.com
 
 <!---
