@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Dishma Bhashitha!
-- 👀 I’m interested in Web Developing, Software Engineering!
+- 👋 Hi, I’m Dishma Bhashitha.
+- 👀 I’m interested in Web Developing, Software Engineering and UX/UI designing!
 - 🌱 I’m currently learning more Computer languages
 - 📫 How to reach me - bdishma@gmail.com
 
